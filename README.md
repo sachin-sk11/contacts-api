@@ -23,7 +23,7 @@ MongoDB with Mongoose ODM
 
 🛠️ Tech Stack
 
-Node.js
+`Node.js
 
 Express.js
 
@@ -35,7 +35,7 @@ JWT (jsonwebtoken)
 
 bcrypt
 
-dotenv
+dotenv`
 
 Environment Variables
 
